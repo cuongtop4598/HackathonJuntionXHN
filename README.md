@@ -1,9 +1,6 @@
 # HackathonJuntionXHN
 Project của nhóm MSEC_LQĐ
 
-## Source code in GenRegex
-
-
 ## What did we do? 
 
 
